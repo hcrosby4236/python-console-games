@@ -43,19 +43,19 @@ Clone the repository:
 ```bash
 git clone https://github.com/hcrosby4236/python-console-games.git
 
-Navigate to the project:
+### Navigate to the project:
 
 cd python-console-games
 
-Run the game:
+### Run the game:
 
 python main.py
 
-Follow the prompts in the terminal to choose a game.
+### Follow the prompts in the terminal to choose a game.
 
-📚 What I Learned
+## 📚 What I Learned
 
-This project gave me practice with:
+### This project gave me practice with:
 
 Conditional statements
 if / elif / else
@@ -67,11 +67,11 @@ Random number generation
 Managing game state
 Creating branching story paths
 Designing interactive command-line programs
-🎥 Demo
+## 🎥 Demo
 
 A gameplay demonstration is included in the repository.
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 Potential improvements include:
 
